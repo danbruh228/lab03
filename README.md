@@ -1,5 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/danbruh228/lab03/badge.svg?branch=test)](https://coveralls.io/github/danbruh228/lab03?branch=test)
-
 # Homework 
 
 Представьте, что вы стажер в компании "Formatter Inc.".
